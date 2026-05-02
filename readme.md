@@ -105,15 +105,6 @@ npm run dev
 ---
 
 
-## 📌 Future Improvements
-
-* Admin dashboard
-* Order tracking
-* Product search & filters
-* Email notifications
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork this repo and submit pull requests.
