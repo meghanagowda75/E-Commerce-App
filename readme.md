@@ -95,7 +95,7 @@ npm run dev
 * Users can register and login securely
 * JWT (JSON Web Token) is used for authentication
 
----
+----
 
 ## 💳 Payment
 
