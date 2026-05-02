@@ -1,6 +1,6 @@
 # 🛒 E-Commerce App
 
-A full-stack E-Commerce web application built using modern technologies. This project allows users to browse products, view details, and simulate an online shopping experience.
+A full-stack E-Commerce web application that allows users to browse products, login, add items to cart, and complete purchases using a payment system.
 
 ---
 
@@ -10,9 +10,11 @@ A full-stack E-Commerce web application built using modern technologies. This pr
 * 🔍 Product details page
 * ⭐ Product ratings and reviews
 * 🛍️ Add to cart functionality
-* 📦 Backend API for products
+* 👤 User authentication (Login / Register)
+* 💳 Payment integration
+* 📦 Order placement system
 * 🖼️ Image upload support
-* 💻 Responsive UI
+* 💻 Fully responsive UI
 
 ---
 
@@ -74,6 +76,7 @@ Create a `.env` file in the root and add:
 PORT=5000
 MONGO_URI=your_mongodb_connection
 JWT_SECRET=your_secret_key
+PAYMENT_API_KEY=your_payment_key
 ```
 
 ### 4️⃣ Run the app
@@ -87,6 +90,29 @@ npm run dev
 
 ---
 
+## 🔐 Authentication
+
+* Users can register and login securely
+* JWT (JSON Web Token) is used for authentication
+
+---
+
+## 💳 Payment
+
+* Users can place orders and proceed to payment
+* Payment integration is included (update with your provider if needed)
+
+---
+
+
+## 📌 Future Improvements
+
+* Admin dashboard
+* Order tracking
+* Product search & filters
+* Email notifications
+
+---
 
 ## 🤝 Contributing
 
@@ -103,4 +129,3 @@ This project is open-source and available under the MIT License.
 ## 🙋‍♀️ Author
 
 Developed by **Meghana B M**
-
