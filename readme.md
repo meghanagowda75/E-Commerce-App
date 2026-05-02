@@ -88,16 +88,6 @@ npm run dev
 ---
 
 
-
-## 📌 Future Improvements
-
-* User authentication (Login/Register)
-* Payment integration
-* Order management
-* Admin dashboard
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork this repo and submit pull requests.
@@ -112,5 +102,5 @@ This project is open-source and available under the MIT License.
 
 ## 🙋‍♀️ Author
 
-Developed by **Meghana Gowda**
+Developed by **Meghana B M**
 
